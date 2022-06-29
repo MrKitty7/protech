@@ -96,4 +96,4 @@ async def setup(ctx, mode: str):
     
     
 
-client.run('OTc2OTI3OTMyMTM4MjkxMjUw.GwtY16.dxJ4pzazIgVTOaOihtDRxWYFYNlgxdeftiNzpg')
+client.run('')
